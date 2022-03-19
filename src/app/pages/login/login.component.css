@@ -1,7 +1,8 @@
-body {font-family: Arial, Helvetica, sans-serif;}
+body {font-family: Arial, Helvetica, sans-serif;
+}
 
 /* Full-width input fields */
-input[type=text], input[type=password] {
+input[type=email], input[type=password] {
   width: 100%;
   padding: 12px 20px;
   margin: 8px 0;
@@ -40,7 +41,7 @@ button {
 }
 
 img.avatar {
-  width: 40%;
+  width: 10%;
   border-radius: 50%;
 }
 
