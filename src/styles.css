@@ -1,15 +1,40 @@
 /* You can add global styles to this file, and also import other style files */
+
 *
+
 {
-    padding : 0 ;
-    margin : 0;
+
+  padding : 0 ;
+
+  margin : 0;
+
 }
+
 :root{
-    --primary-color:green;
-    --secondary-color : grey;
+
+  --primary-color: red;
+
+  --secondary-color : orange;
+
+  --border-thin : 1px;
+
+  --border-thick : 2px;
+
+  --font-size-small : 12px;
+
+  --font-weight-bold : 600;
+
+  --padding-base-horizontal : 18px ;
+
 }
+
 body
+
 {
-    height: 100vh;
+
+  height: 100vh;
+
  font-family: Arial, Helvetica, sans-serif;
+
 }
+
